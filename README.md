@@ -5,7 +5,7 @@
 <p> Meu nome é Juliana Hansen Basdão. Sou aluna de Engenharia Elétrica (Robótica e Automação Industrial) na Universidade Federal de Juiz de Fora e estudo programação para ingressar na área de desenvolvimento de Software. <br />
 Atualmente faço parte de um curso de Web Full Stack na Digital House com uma bolsa do programa "Transforme-se", iniciativa da Serasa Experian para a inclusão de mulheres na área de tecnologia.<br /><br /></p>
 
-Estou estudando as seguintes linguagens: <br /> <br />
+Estudando: <br /> <br />
 
 
 <p align="left">
